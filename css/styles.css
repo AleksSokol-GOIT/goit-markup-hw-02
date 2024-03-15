@@ -107,6 +107,9 @@ button {
 .our-team-sect {
   background-color: #f4f4fd;
 }
+.our-team-list-item {
+  background-color: #ffffff;
+}
 .our-team-title {
   color: #2e2f42;
   font-weight: 700;
